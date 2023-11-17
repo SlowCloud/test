@@ -2,14 +2,18 @@
 layout: post
 read_time: true
 show_date: true
-title: "Who owns the copyright for an AI generated creative work?"
+title: "변경된 제목!"
 date: 2021-04-20
-img: posts/20210420/post8-rembrandt.jpg
+img: posts/20210420/githubactionicon.png
 tags: [copyright, creativity, neural networks, machine learning, artificial intelligence]
 category: opinion
 author: Armando Maynez
 description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
 ---
+
+변경된 내용!
+
+
 Recently I was [reading an article](https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/) about a cool project that intends to have a neural network create songs of the late club of the 27 (artists that have tragically died at age 27 or near, and in the height of their respective careers), artists such as Amy Winehouse, Jimmy Hendrix, Curt Cobain and Jim Morrison.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tjzOzuKQhSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
